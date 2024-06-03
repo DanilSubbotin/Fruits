@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+}
+.container {
+	width: 100%
+}
+.title{
+	width: 100%;
+    background: white;
+    display: flex;
+    align-items: center;
+}
+.dragonfruitphoto{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.sections{
+    padding-left: 380px;
+    font-family: Jost;
+    font-weight: 500;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	margin-left: 15px;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+a:focus{
+	color: #e26479;
+}
+.header_title{
+	margin-top: 10px;
+	background-image:url(exotic.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 620px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Jost;
+	flex-direction: column;
+	text-align: center;
+}
+.words1{
+	font-size: 50px;
+	width: 650px;
+	font-weight: 600;	
+}
+.words2{
+	margin-top: 50px;
+    width: 600px;
+    font-size: 21px;
+}
+.selection_fruits{
+	background: #d62240;
+	width: 200px;
+	height: 60px;
+	margin-top: 50px;
+	border-radius: 30px;
+	border: none;
+	color: white;
+	font-weight: 700;
+	font-family: Jost;
+	font-size: 15px;
+}
+.contacts{
+	margin-left: 100px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-family: Jost;
+	font-weight: 700;
+	font-size: 17px;
+}
+p{
+	margin: 0 0 0 100px;
+	text-align: center;
+	font-family: Jost;
+	color: grey;
+}
+.messengers{
+	width: 120px;
+	margin-left: 40px;
+	display: flex;
+	justify-content: space-between;
+}
+.order{
+	background: #d62240;
+	width: 140px;
+	height: 50px;
+	margin-left: 50px;
+	border-radius: 30px;
+	border: none;
+	color: white;
+	font-weight: 700;
+	font-family: Jost;
+	font-size: 15px;
+}
+.fruits{
+	text-align: center;
+	margin-top: 130px;
+    width: 100%;
+    font-family: Jost;
+}
+h3{    
+     font-weight: 400;
+}
+.sale{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.boxes{	
+	width: 1200px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;
+}
+.bigbox{
+	display: flex;
+	flex-direction: column;
+	font-family: Jost;
+}
+.averagebox{
+    display: flex;
+	flex-direction: column;
+	font-family: Jost;
+}
+.smallbox{
+	display: flex;
+	flex-direction: column;
+	font-family: Jost;
+}
+.product_description{
+	margin-top: 30px;
+	font-size: 23px;
+	font-weight: 600;
+}
+.price{
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: 600;
+}
+.set{
+	margin-top: 10px;
+}
+.set_selection{
+	width: 150px;
+	height: 40px;
+	border-radius: 30px;
+	border: none;
+    background: #d62240;
+	color: white;
+	font-weight: 600;
+	font-family: Jost;
+}
+.set_composition{
+	width: 135px;
+	height: 40px;
+	border-radius: 30px;
+	background: white;
+	border-color: black;
+	font-family: Jost;
+	font-weight: 600;
+}
+h1{
+	margin-top: 150px;
+}
+.special_sets{
+	width: 1300px;
+	display: flex;
+	justify-content: center;
+}
+.how_it_works{
+	margin-top: 50px;
+	background-image:url(exotic1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 620px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Jost;
+	flex-direction: column;
+	text-align: center;
+}
+.words3{
+    font-size: 35px;
+    font-weight: 600;
+}
+.photos{
+	filter: invert(100%);
+	margin-top: 50px;
+	display: flex;
+	align-items: center;
+}
+.description_actions{
+	margin-top: 20px;
+	font-size: 23px;
+	font-weight: 600;
+	color: white;
+	filter: invert(100%);
+}
+.more_details{
+	margin-top: 10px;
+	filter: invert(100%);
+}
+.airplane{
+	margin-left: 35px;
+}
+.your_box{
+	margin-left: 35px;
+}
+.human{
+	margin-left: 35px;
+}
